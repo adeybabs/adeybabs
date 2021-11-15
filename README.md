@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeybabs
-- 👀 I’m interested in data science and analysis
-- 🌱 I’m currently learning django/python machine learning
+- 👀 I’m a tech enthusiast with knowledge on data science, Machine learning, Java and python
+- 🌱 I’m currently learning more about spring boot and microservices 
 - I also have experience in java for web development
 - 💞️ I’m looking to collaborate on different helpful projects
 - 📫 How to reach me ...
