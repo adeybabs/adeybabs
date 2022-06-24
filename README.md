@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeybabs
-- 👀 I’m a tech enthusiast with knowledge on data science, Machine learning, Java and python
-- 🌱 I’m currently learning more about spring boot and microservices 
+- 👀 I’m a tech enthusiast with knowledge on spring/microservices, data science/Machine learning, Java and python
+- 🌱 I am always learning and improving myself 
 - I also have experience in java for web development
 - 💞️ I’m looking to collaborate on different helpful projects
 - 📫 How to reach me ...
