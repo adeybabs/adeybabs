@@ -1,13 +1,11 @@
-<h2>👋 Hi, I’m @adeybabs and<i> welcome to my profile 🤝</i></h2>
-- 💞️ I’m looking to collaborate on different helpful projects
-- 📫 How to reach me ...
+<h2><i>👋 Hi, I’m @adeybabs and welcome to my profile 🤝</i></h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=adeybabs.adeybabs)](https://github.com/adeybabs) [![GitHub followers](https://img.shields.io/github/followers/adeybabs.svg?style=social&label=Follow)](https://github.com/adeybabs?tab=followers)
 
 <p>I am a Software Engineer and Data Scientist with over 5 years coding experience. My skills set include knowledge of  ● Java ● Python ● Django ● Spring Boot ● ElasticSearch ● API Gateway ● Swagger ● Postman ● SonarQube ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● Gradle ● MySQL ● Postgresql ● MongoDB ● H2 ● AWS ● Docker ● Kafka ● Kubernetes ● OAuth2 ● Kibana ● Microservices ● JUnit/Mockito ● Data Mining
 ● Data Visualization ● Machine learning ● Google Analytics ● Data Analysis ● CSS ● HTML
 </p>
-Visit my <a href="https://www.linkedin.com/in/adedamola-babatunde/">LinkedIn</a> profile for more about me.
+Visit my <a href="https://www.linkedin.com/in/adedamola-babatunde/">LinkedIn</a> profile for more about me and a quick chat 📫.
 
 
 ---
